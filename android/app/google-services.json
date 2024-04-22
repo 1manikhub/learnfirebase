@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "744643645063",
+    "project_id": "learnflutterr-120d9",
+    "storage_bucket": "learnflutterr-120d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744643645063:android:2f316123ea500fd551b222",
+        "android_client_info": {
+          "package_name": "com.example.learnfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEWx2eJF6oQHqnTzET742wv20ZKKlMuwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
